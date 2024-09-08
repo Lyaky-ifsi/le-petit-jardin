@@ -1,0 +1,19 @@
+---
+{"dg-publish":true,"permalink":"/definitions-concepts/virus/","tags":["définition"],"noteIcon":""}
+---
+
+
+## Définition
+- Structure non cellulaire 
+- Un seul acide nucléique 
+- Besoin de **« parasiter »** une cellule pour se multiplier
+## Cours 
+UE210 - [[Excalidraw/UE210 Hantz P1 2024-09-08 17.54.30.excalidraw\|UE210 Hantz P1 2024-09-08 17.54.30.excalidraw]]
+UE210 - Partie 2 : Dr Hanz
+
+## Lexicologie 
+[[Transmission\|Transmission]]
+[[Définitions - Concepts/ATNC ou Prion\|ATNC ou Prion]]
+[[Définitions - Concepts/Bactérie\|Bactérie]]
+[[Définitions - Concepts/Champignon\|Champignon]]
+[[Définitions - Concepts/Parasite\|Parasite]]
