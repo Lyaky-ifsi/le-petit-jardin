@@ -2,4 +2,4 @@
 {"dg-publish":true,"permalink":"/mindmaps/hantz-partie-1/","tags":["#mindmaps","cours","matière"],"noteIcon":""}
 ---
 
-![../Pasted image 20240908235435.png](/img/user/Pasted%20image%2020240908235435.png)
+![../Fichiers/Images/Pasted image 20240909021419.png](/img/user/Fichiers/Images/Pasted%20image%2020240909021419.png)
