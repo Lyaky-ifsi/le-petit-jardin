@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mindmaps/frise-chronologique-histoire-de-la-profession-infirmiere/","tags":["frise"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/mindmaps/frise-chronologique-histoire-de-la-profession-infirmiere/","tags":["frise","#UE31"],"noteIcon":""}
 ---
 
 
@@ -32,4 +32,4 @@
 | XXe siècle          | 1968        | 1968      | Libération des concepts religieux                         |
 | XXe siècle          | 1992        | 1992      | Instauration du diplôme d'État unique                     |
 # Cours
-[[Notes/Histoire et évolution de la profession infirmière\|Histoire et évolution de la profession infirmière]]
+[[Cours/Histoire et évolution de la profession infirmière\|Histoire et évolution de la profession infirmière]]
