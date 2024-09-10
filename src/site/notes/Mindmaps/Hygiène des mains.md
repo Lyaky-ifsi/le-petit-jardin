@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/mindmaps/hygiene-des-mains/","tags":["#mindmaps"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/mindmaps/hygiene-des-mains/","tags":["#mindmaps","#UE210"],"noteIcon":""}
 ---
 
+# Mindmap
 
 ![../Fichiers/Images/Pasted image 20240909093425.png](/img/user/Fichiers/Images/Pasted%20image%2020240909093425.png)![../Fichiers/Images/Pasted image 20240909100556.png](/img/user/Fichiers/Images/Pasted%20image%2020240909100556.png)
 ![../Fichiers/Images/Pasted image 20240909101126.png](/img/user/Fichiers/Images/Pasted%20image%2020240909101126.png)
@@ -11,7 +12,6 @@
 > - S.PIAS ( 17 Au total)
 > - Indicateur ISCHA.3 (2017) - Indicateur de Consommation de Solution Hydro-Alcoolique 
 > - Journée "mains propres" - 5 mais de chaque année
-
 # Sources et références 
 > [!attention] Éviter les fautes professionnelles !
 > - Contents- Surveiller et prévenir les infections associées au soins - SFHH -2010
