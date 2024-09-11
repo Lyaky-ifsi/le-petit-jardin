@@ -14,7 +14,7 @@
 - Aujourd'hui l'infirmière est une professionnelle, son métier est régie par des textes, des lois
 
 ## Depuis le début de l'humanité ...
-### La répartition des rôles selon Marie-Françoise collièrre ( Cf bibliographie )
+### La répartition des rôles selon Marie-Françoise collière ( Cf bibliographie )
 #### Rôle Féminin :
 - Assurer le maintien et la continuité de la vie
 - Stimuler les forces de vi, le développement, en prenant soin
@@ -25,7 +25,7 @@
 ## Général
 - maladie attribué au surnaturel ou la magie
 - Patient est pris en charge
-- Traitements appliqués par des "médecins" par des prêtes et guérisseus
+- Traitements appliqués par des "médecins" par des prêtes et guérisseurs
 
 | Représention de la maladie  | Représentation de la médecine | Représentation de l'infirmière  | Gestion des institutions                             |
 | --------------------------- | ----------------------------- | ------------------------------- | ---------------------------------------------------- |

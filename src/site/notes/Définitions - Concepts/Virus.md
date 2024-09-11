@@ -8,7 +8,7 @@
 - Un seul acide nucléique 
 - Besoin de **« parasiter »** une cellule pour se multiplier
 ## Cours 
-UE210 - [[Excalidraw/UE210 Hantz P1 2024-09-08 17.54.30.excalidraw\|UE210 Hantz P1 2024-09-08 17.54.30.excalidraw]]
+UE210 - [[Excalidraw/UE210 Hantz P1.excalidraw\|UE210 Hantz P1.excalidraw]]
 UE210 - Partie 2 : Dr Hanz
 
 ## Lexicologie 
