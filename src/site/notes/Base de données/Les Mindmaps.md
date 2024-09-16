@@ -18,14 +18,14 @@
 | [[Mindmaps/C3 - Droit au consentement\|C3 - Droit au consentement]]                                       | UE13        | <ul><li>mindmaps</li></ul>                                               | September 11, 2024 |
 | [[Mindmaps/C2 - Droit à l'information\|C2 - Droit à l'information]]                                       | UE13        | <ul><li>mindmaps</li></ul>                                               | September 11, 2024 |
 | [[Mindmaps/C1 - Droit des Patients\|C1 - Droit des Patients]]                                             | UE13        | <ul><li>mindmaps</li></ul>                                               | September 11, 2024 |
+| [[Mindmaps/Médicament P2-4\|Médicament P2-4]]                                                             | UE21        | <ul><li>mindmaps</li></ul>                                               | September 12, 2024 |
+| [[Mindmaps/Médicament P1-4\|Médicament P1-4]]                                                             | UE21        | <ul><li>mindmaps</li></ul>                                               | September 12, 2024 |
+| [[Mindmaps/Médicament P4-4\|Médicament P4-4]]                                                             | UE21        | <ul><li>mindmaps</li></ul>                                               | September 12, 2024 |
+| [[Mindmaps/Médicament P3-4\|Médicament P3-4]]                                                             | UE21        | <ul><li>mindmaps</li></ul>                                               | September 12, 2024 |
+| [[Définitions - Concepts/Concepts\|Concepts]]                                                             | UE41        | <ul><li>#mindmaps</li><li>#concept</li></ul>                             | September 12, 2024 |
+| [[Mindmaps/Concepts\|Concepts]]                                                                           | UE41 & UE13 | <ul><li>mindmaps</li></ul>                                               | September 12, 2024 |
 | [[Mindmaps/Molécules inorganiques du Vivant - Eau\|Molécules inorganiques du Vivant - Eau]]               | UE21        | <ul><li>#mindmaps</li></ul>                                              | September 16, 2024 |
 | [[Mindmaps/Secrets Professionnels\|Secrets Professionnels]]                                               | UE13        | <ul><li>mindmaps</li></ul>                                               | September 17, 2024 |
-| [[Mindmaps/Médicament P2-4\|Médicament P2-4]]                                                             | UE21        | <ul><li>mindmaps</li></ul>                                               | October 10, 2024   |
-| [[Mindmaps/Médicament P1-4\|Médicament P1-4]]                                                             | UE21        | <ul><li>mindmaps</li></ul>                                               | October 10, 2024   |
-| [[Mindmaps/Médicament P4-4\|Médicament P4-4]]                                                             | UE21        | <ul><li>mindmaps</li></ul>                                               | October 10, 2024   |
-| [[Mindmaps/Médicament P3-4\|Médicament P3-4]]                                                             | UE21        | <ul><li>mindmaps</li></ul>                                               | October 10, 2024   |
-| [[Définitions - Concepts/Concepts\|Concepts]]                                                             | UE41        | <ul><li>#mindmaps</li><li>#concept</li></ul>                             | October 10, 2024   |
-| [[Mindmaps/Concepts\|Concepts]]                                                                           | UE41 & UE13 | <ul><li>mindmaps</li></ul>                                               | October 10, 2024   |
 
 { .block-language-dataview}
 
