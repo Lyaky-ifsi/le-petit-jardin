@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sites-utiles/anki/","tags":["#logiciel"],"noteIcon":""}
 ---
 
-# Difficulté Utilisation : **<font color="#00b0f0">1/5</font>**
+# Difficulté Utilisation : **<font color="#00b0f0">3.25/5</font>**
 
 # C'est quoi ?
 Une application que j'ai peu utilisé encore, mais qui reprends les mêmes principes qu'un Quizlet si ça vous parle ? Un système de flashcard que tu créés, recto/verso ou question/réponse, que tu te fais à toi-même. C'est une méthode très **PUISSANTE** ! Cela te force à faire appel à ta mémoire régulièrement, 1j - 3j - 1sem - 2sem - 1mois - 3 mois - 6mois, mémoire à long terme bien sûr !
