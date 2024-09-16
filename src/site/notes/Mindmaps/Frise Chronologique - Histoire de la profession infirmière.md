@@ -4,7 +4,7 @@
 
 
 # Chronologie
-- [ ] A faire
+- [x] A faire ✅ 2024-09-14
 
 # Tableau des époques
 | Époque              | Année début | Année fin | Événement                                                 |
@@ -32,4 +32,4 @@
 | XXe siècle          | 1968        | 1968      | Libération des concepts religieux                         |
 | XXe siècle          | 1992        | 1992      | Instauration du diplôme d'État unique                     |
 # Cours
-[[Cours/Histoire et évolution de la profession infirmière\|Histoire et évolution de la profession infirmière]]
+[[Cours/UE 1.3 - Législation éthique déontologie/Chapitre 1 - Histoire et évolution de la profession infirmière\|Chapitre 1 - Histoire et évolution de la profession infirmière]]
