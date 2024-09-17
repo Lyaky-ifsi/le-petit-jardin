@@ -4,4 +4,4 @@
 
 # Mindmap
 ![../Excalidraw/UE21 Médicament P4-4.png](/img/user/Excalidraw/UE21%20M%C3%A9dicament%20P4-4.png)
-[[../Excalidraw/UE21 Médicament P4-4.svg]]
+
