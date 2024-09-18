@@ -5,6 +5,7 @@
 # Ordre par DATE
 | File                                                                                                                                             | domaine     | tags                                                                     | date               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- | ------------------------------------------------------------------------ | ------------------ |
+| [[Mindmaps/Bactériologie Générale 2\|Bactériologie Générale 2]]                                                                               | UE210       | <ul><li>mindmaps</li></ul>                                               | September 18, 2023 |
 | [[Mindmaps/Molécules organiques du vivant - le dioxygène\|Molécules organiques du vivant - le dioxygène]]                                     | UE21        | <ul><li>#mindmaps</li></ul>                                              | January 01, 2024   |
 | [[Mindmaps/Droit Fondamentaux P2\|Droit Fondamentaux P2]]                                                                                     | UE210       | <ul><li>mindmaps</li></ul>                                               | August 08, 2024    |
 | [[Mindmaps/Droit Fondamentaux P1\|Droit Fondamentaux P1]]                                                                                     | UE13        | <ul><li>mindmaps</li></ul>                                               | September 08, 2024 |
@@ -26,6 +27,7 @@
 | [[Mindmaps/Molécules organiques du vivant - dioxyde et monoxyde de carbone\|Molécules organiques du vivant - dioxyde et monoxyde de carbone]] | UE21        | <ul><li>mindmaps</li></ul>                                               | September 16, 2024 |
 | [[Mindmaps/Secrets Professionnels\|Secrets Professionnels]]                                                                                   | UE13        | <ul><li>mindmaps</li></ul>                                               | September 17, 2024 |
 | [[Mindmaps/Bactériologie Générale 1\|Bactériologie Générale 1]]                                                                               | UE210       | <ul><li>mindmaps</li></ul>                                               | September 18, 2024 |
+| [[Mindmaps/AA et Protéines\|AA et Protéines]]                                                                                                 | UE21        | <ul><li>mindmaps</li></ul>                                               | September 18, 2024 |
 
 { .block-language-dataview}
 

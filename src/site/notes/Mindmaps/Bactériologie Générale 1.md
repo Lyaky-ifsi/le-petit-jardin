@@ -27,5 +27,4 @@
 | Genre            | Mycoplasma      |
 | Espèce           | M.Pseumoniae    |
 
-## Image Exemple 1 : Bactéries spiralées
-![../Fichiers/Images/Pasted image 20240918100236.png](/img/user/Fichiers/Images/Pasted%20image%2020240918100236.png)
+## Image Exem 
