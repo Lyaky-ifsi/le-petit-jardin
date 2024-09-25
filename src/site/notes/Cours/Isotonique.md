@@ -10,8 +10,11 @@
 - ἴσος (ísos) signifiant "égal"
 - τόνος (tónos) signifiant "tension" ou "pression"
 ## Lexicologie 
-[Homeostasie]
-[Pression osmotique]
-[Osmolalité]
-[Isotonique]
-[Osmose]
+[[Homeostasie\|Homeostasie]]
+[[Pression osmotique\|Pression osmotique]]
+[[Notes/Osmolalité\|Osmolalité]]
+[[Cours/Isotonique\|Isotonique]]
+[[Définitions - Concepts/Osmose\|Osmose]]
+[[Hypertonie\|Hypertonie]]
+[[../Définitions - Concepts/Isotomie\|../Définitions - Concepts/Isotomie]]
+[[Hypotonie\|Hypotonie]]
