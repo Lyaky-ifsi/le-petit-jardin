@@ -13,8 +13,8 @@ En somme c'est la dissolution d'une solution dans de l'eau.
 - <font color="#5f497a">"Osmo-"</font> : Ce préfixe vient du grec "ōsmos" (ὠσμός) qui signifie "poussée" ou "impulsion". Il est lié au phénomène d'osmose, qui est le passage de solvant à travers une membrane semi-perméable.
 - <font color="#5f497a">"-alité"</font> : Ce suffixe est généralement utilisé pour former des noms abstraits indiquant une qualité ou un état.
 ## Lexicologie 
-[Homeostasie]
-[Pression osmotique]
-[Osmolalité]
-[Isotonique]
-[Osmose]
+[[Homeostasie\|Homeostasie]]
+[[Pression osmotique\|Pression osmotique]]
+[[Notes/Osmolalité\|Osmolalité]]
+[[Définitions - Concepts/Isotonique\|Isotonique]]
+[[Définitions - Concepts/Osmose\|Osmose]]
