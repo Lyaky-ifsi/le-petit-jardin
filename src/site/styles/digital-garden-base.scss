@@ -18,14 +18,14 @@ img {
 }
 
 .content {
-    max-width: 700px;
+    max-width: 1200px;
     margin: auto;
     font-size: 18px;
     line-height: 1.5;
     margin-top: 90px;
     position: relative;
 
-    @media (max-width: 800px) {
+    @media (max-width: 1600px) {
         margin-top: 75px;
     }
 }
@@ -72,12 +72,12 @@ ul.task-list {
     max-width: 350px;
 
     .graph {
-        width: 320px;
-        min-height: 320px;
+        width: 250px;
+        min-height: 250px;
 
         #link-graph {
-            width: 320px;
-            height: 320px;
+            width: 250px;
+            height: 250px;
         }
 
         #graph-fs-btn {
