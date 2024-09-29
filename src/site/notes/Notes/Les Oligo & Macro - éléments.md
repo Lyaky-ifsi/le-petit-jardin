@@ -5,5 +5,4 @@
 # Mindmap
 ![../../../Excalidraw/UE21 - Macroéléments.png](/img/user/Excalidraw/UE21%20-%20Macro%C3%A9l%C3%A9ments.png)
 # Téléchargement 
-
-<a href ="/img/user/Excalidraw/UE21%20-%20Macro%C3%A9l%C3%A9ments.png" alt="Carte mentale" />Image en Qualité +++</a>
+<a href ="https://the-little-garden.vercel.app/img/user/Excalidraw/UE21%20-%20Macro%C3%A9l%C3%A9ments.png" alt="Carte mentale" />Image en Qualité +++</a>
