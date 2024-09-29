@@ -30,6 +30,7 @@
 | [[Mindmaps/AA et Protéines\|AA et Protéines]]                                                                                                 | UE21        | <ul><li>mindmaps</li></ul>                                               | September 18, 2024 |
 | [[Mindmaps/Les besoins d'un être humain\|Les besoins d'un être humain]]                                                                       | UE31        | <ul><li>mindmaps</li></ul>                                               | September 20, 2024 |
 | [[Notes/Le modèle Biopsychosociale\|Le modèle Biopsychosociale]]                                                                              | UE31        | <ul><li>mindmaps</li><li>modèle</li></ul>                                | September 26, 2024 |
+| [[Notes/Les Oligo & Macro - éléments\|Les Oligo & Macro - éléments]]                                                                          | UE21        | <ul><li>cours</li><li>UE21</li><li>mindmaps</li></ul>                    | September 26, 2024 |
 
 { .block-language-dataview}
 
