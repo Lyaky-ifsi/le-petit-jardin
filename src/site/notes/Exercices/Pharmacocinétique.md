@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/exercices/pharmacocinetique/","tags":["Exercice"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/exercices/pharmacocinetique/","tags":["exercice"],"noteIcon":""}
 ---
 
 # StudyMaster : Flashcard

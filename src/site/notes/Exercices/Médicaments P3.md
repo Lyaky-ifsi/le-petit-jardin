@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/exercices/medicaments-p3/","tags":["#Exercice"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/exercices/medicaments-p3/","tags":["exercice"],"noteIcon":""}
 ---
 
 

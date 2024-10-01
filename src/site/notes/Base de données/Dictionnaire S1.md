@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/base-de-donnees/dictionnaire-s1/","noteIcon":""}
+{"dg-publish":true,"permalink":"/base-de-donnees/dictionnaire-s1/","tags":["dataview"],"noteIcon":""}
 ---
 
 
