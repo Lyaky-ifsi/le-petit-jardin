@@ -33,6 +33,7 @@
 | [[Mindmaps/La prescription\|La prescription]]                                                                 | UE211       | October 02, 2024   |
 | [[Mindmaps/Circuit du Médicament en Etablissement de Santé\|Circuit du Médicament en Etablissement de Santé]] | UE211       | October 02, 2024   |
 | [[Mindmaps/Le Raisonnement Clinique\|Le Raisonnement Clinique]]                                               | UE31        | October 02, 2024   |
+| [[Mindmaps/Le Cycle Cellulaire\|Le Cycle Cellulaire]]                                                         | UE21        | October 03, 2024   |
 
 { .block-language-dataview}
 
