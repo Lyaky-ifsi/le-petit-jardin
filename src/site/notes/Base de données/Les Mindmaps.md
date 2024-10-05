@@ -35,6 +35,7 @@
 | [[Mindmaps/Droit Fondamentaux P1\|Droit Fondamentaux P1]]                                                       | UE13        | September 08, 2024 |
 | [[Mindmaps/Droit Fondamentaux P2\|Droit Fondamentaux P2]]                                                       | UE210       | August 08, 2024    |
 | [[Mindmaps/Bactériologie Générale 2\|Bactériologie Générale 2]]                                                 | UE210       | September 18, 2023 |
+| [[Base de données/All\|All]]                                                                                    | \-          | \-                 |
 
 { .block-language-dataview}
 
