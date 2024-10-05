@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mindmaps/hygiene-des-mains/","tags":["#mindmaps","#UE210"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/mindmaps/hygiene-des-mains/","tags":["mindmaps"],"noteIcon":""}
 ---
 
 # Mindmap

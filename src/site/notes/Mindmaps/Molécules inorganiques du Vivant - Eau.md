@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mindmaps/molecules-inorganiques-du-vivant-eau/","tags":["#mindmaps"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/mindmaps/molecules-inorganiques-du-vivant-eau/","tags":["mindmaps"],"noteIcon":""}
 ---
 
 # Mindmaps

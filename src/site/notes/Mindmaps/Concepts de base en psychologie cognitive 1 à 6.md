@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mindmaps/concepts-de-base-en-psychologie-cognitive-1-a-6/","tags":["#mindmaps"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/mindmaps/concepts-de-base-en-psychologie-cognitive-1-a-6/","tags":["mindmaps"],"noteIcon":""}
 ---
 
 # Partie 1/12 : Les bases

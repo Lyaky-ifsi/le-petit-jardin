@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mindmaps/concepts-de-base-en-psychologie-cognitive-6-a-12/","tags":["#mindmaps","#psychologie"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/mindmaps/concepts-de-base-en-psychologie-cognitive-6-a-12/","tags":["mindmaps","psychologie"],"noteIcon":""}
 ---
 
 # Partie 7/12 : Mémoire et Cognition
