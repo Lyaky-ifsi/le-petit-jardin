@@ -11,7 +11,7 @@
 > [!tip] Accès WEB : [cliquez ici](https://mindmapai.app/mind-map/concepts-de-base-en-psychologie-cognitive-b14d3284)
 # Partie 3/12
 ![../Fichiers/Mindmaps/Les concepts de base en psychologie cognitive 3-12.png](/img/user/Fichiers/Mindmaps/Les%20concepts%20de%20base%20en%20psychologie%20cognitive%203-12.png)
-> [!tip] Accès WEB : [cliquez ici](https://mindmapai.app/mind-map/les-concepts-de-base-en-psychologie-cognitive-5231d89a)
+> [!tip] Accès WEB : [cliquez ici](https://mindmapai.app/mind-map/plasticité-cérébrale-106816e3)
 # Partie 4/12 : Neuroscience
 ![../Fichiers/Mindmaps/Les concepts de base en psychologie cognitive 4-12.png](/img/user/Fichiers/Mindmaps/Les%20concepts%20de%20base%20en%20psychologie%20cognitive%204-12.png)
 > [!tip] Accès WEB : [Cliquez ici](https://mindmapai.app/mind-map/les-concepts-de-base-en-psychologie-cognitive-5231d89a)
