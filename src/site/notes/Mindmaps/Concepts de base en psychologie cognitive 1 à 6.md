@@ -9,7 +9,7 @@
 # Partie 2/12 : La pensée
 ![../Fichiers/Mindmaps/Les Concepts de Base en Psychologie Cognitive 2-12.png](/img/user/Fichiers/Mindmaps/Les%20Concepts%20de%20Base%20en%20Psychologie%20Cognitive%202-12.png)
 > [!tip] Accès WEB : [cliquez ici](https://mindmapai.app/mind-map/concepts-de-base-en-psychologie-cognitive-b14d3284)
-# Partie 3/12
+# Partie 3/12 : Plasticité cérébrale
 ![../Fichiers/Mindmaps/Les concepts de base en psychologie cognitive 3-12.png](/img/user/Fichiers/Mindmaps/Les%20concepts%20de%20base%20en%20psychologie%20cognitive%203-12.png)
 > [!tip] Accès WEB : [cliquez ici](https://mindmapai.app/mind-map/plasticité-cérébrale-106816e3)
 # Partie 4/12 : Neuroscience
