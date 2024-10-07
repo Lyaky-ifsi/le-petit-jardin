@@ -5,7 +5,7 @@
 # Ordre par DATE
 | File                                                                                                               | domaine     | tags                                                                                        | date               |
 | ------------------------------------------------------------------------------------------------------------------ | ----------- | ------------------------------------------------------------------------------------------- | ------------------ |
-| [[Notes/Le Sang\|Le Sang]]                                                                                      | UE22        | <ul><li>cours</li></ul>                                                                     | October 08, 2024   |
+| [[Mindmaps/Le Sang\|Le Sang]]                                                                                   | UE22        | <ul><li>cours</li><li>mindmaps</li></ul>                                                    | October 08, 2024   |
 | [[Mindmaps/Psychologie - Vidéo Youtube\|Psychologie - Vidéo Youtube]]                                           | UE11        | <ul><li>cours</li><li>mindmaps</li></ul>                                                    | October 07, 2024   |
 | [[Mindmaps/La révolution Cognitif - Youtube\|La révolution Cognitif - Youtube]]                                 | UE11        | <ul><li>cours</li><li>mindmaps</li></ul>                                                    | October 07, 2024   |
 | [[Mindmaps/Concepts de base en psychologie cognitive 6 à 12\|Concepts de base en psychologie cognitive 6 à 12]] | UE11        | <ul><li>mindmaps</li></ul>                                                                  | October 05, 2024   |
