@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/protocoles/hygiene-et-prevention-des-infections/","tags":["protocole"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/protocoles/hygiene-et-prevention-des-infections/","tags":["protocole"],"noteIcon":"2"}
 ---
 
 

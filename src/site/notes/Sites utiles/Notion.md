@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sites-utiles/notion/","noteIcon":""}
+{"dg-publish":true,"permalink":"/sites-utiles/notion/","noteIcon":"2"}
 ---
 
 # Difficulté Utilisation : 1/5

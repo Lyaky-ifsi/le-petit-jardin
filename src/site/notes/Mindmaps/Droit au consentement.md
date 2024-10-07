@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mindmaps/droit-au-consentement/","tags":["mindmaps"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/mindmaps/droit-au-consentement/","tags":["mindmaps"],"noteIcon":"2"}
 ---
 
 

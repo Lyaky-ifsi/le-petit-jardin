@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mindmaps/droit-du-corps-humain/","tags":["mindmaps"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/mindmaps/droit-du-corps-humain/","tags":["mindmaps"],"noteIcon":"2"}
 ---
 
 

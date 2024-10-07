@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mindmaps/frise-chronologique-histoire-de-la-profession-infirmiere/","tags":["frise","#UE31"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/mindmaps/frise-chronologique-histoire-de-la-profession-infirmiere/","tags":["frise","#UE31"],"noteIcon":"2"}
 ---
 
 

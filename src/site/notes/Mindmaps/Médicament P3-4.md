@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mindmaps/medicament-p3-4/","contentClasses":"","tags":["mindmaps"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/mindmaps/medicament-p3-4/","contentClasses":"","tags":["mindmaps"],"noteIcon":"2"}
 ---
 
 # Mindmap

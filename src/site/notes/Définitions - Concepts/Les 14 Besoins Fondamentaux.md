@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/definitions-concepts/les-14-besoins-fondamentaux/","tags":["définition","cours"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/definitions-concepts/les-14-besoins-fondamentaux/","tags":["définition","cours"],"noteIcon":"2"}
 ---
 
 

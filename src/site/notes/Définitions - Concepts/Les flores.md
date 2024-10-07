@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/definitions-concepts/les-flores/","tags":["définition"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/definitions-concepts/les-flores/","tags":["définition"],"noteIcon":"2"}
 ---
 
 

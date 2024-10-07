@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mindmaps/les-besoins-d-un-etre-humain/","tags":["mindmaps"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/mindmaps/les-besoins-d-un-etre-humain/","tags":["mindmaps"],"noteIcon":"2"}
 ---
 
 

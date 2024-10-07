@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/a-home/my-little-garden/","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/a-home/my-little-garden/","tags":["gardenEntry"],"noteIcon":"2"}
 ---
 
 # Introduction

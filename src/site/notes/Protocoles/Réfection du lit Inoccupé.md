@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/protocoles/refection-du-lit-inoccupe/","tags":["GPT","TPG","protocole"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/protocoles/refection-du-lit-inoccupe/","tags":["GPT","TPG","protocole"],"noteIcon":"2"}
 ---
 
 

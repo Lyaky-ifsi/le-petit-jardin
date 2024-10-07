@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/protocoles/refection-du-lit-occupe/","tags":["TPG","GPT","protocole"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/protocoles/refection-du-lit-occupe/","tags":["TPG","GPT","protocole"],"noteIcon":"2"}
 ---
 
 **Source :** [PDF Réfection lit occupé](https://www.chuv.ch/fileadmin/sites/dso/documents/Methodes_de_soins/MDS_Refection_lit_occupe_DSO-FT_-Adultes-078.pdf)

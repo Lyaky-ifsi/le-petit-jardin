@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/definitions-concepts/osmolarite/","tags":["definition"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/definitions-concepts/osmolarite/","tags":["definition"],"noteIcon":"2"}
 ---
 
 

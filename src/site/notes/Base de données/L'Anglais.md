@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/base-de-donnees/l-anglais/","tags":["dataview"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/base-de-donnees/l-anglais/","tags":["dataview"],"noteIcon":"2"}
 ---
 
 # Ordre par Date

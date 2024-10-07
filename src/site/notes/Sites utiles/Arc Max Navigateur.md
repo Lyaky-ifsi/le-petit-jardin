@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sites-utiles/arc-max-navigateur/","noteIcon":""}
+{"dg-publish":true,"permalink":"/sites-utiles/arc-max-navigateur/","noteIcon":"2"}
 ---
 
 # Difficulté : 1/5

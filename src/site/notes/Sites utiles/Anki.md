@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sites-utiles/anki/","tags":["#logiciel"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/sites-utiles/anki/","tags":["#logiciel"],"noteIcon":"2"}
 ---
 
 # Difficulté Utilisation : **<font color="#00b0f0">3.25/5</font>**

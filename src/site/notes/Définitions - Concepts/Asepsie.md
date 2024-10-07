@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/definitions-concepts/asepsie/","tags":["définition"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/definitions-concepts/asepsie/","tags":["définition"],"noteIcon":"2"}
 ---
 
 ## Définition

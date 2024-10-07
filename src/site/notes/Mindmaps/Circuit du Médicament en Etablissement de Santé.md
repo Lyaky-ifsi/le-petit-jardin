@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mindmaps/circuit-du-medicament-en-etablissement-de-sante/","tags":["mindmaps"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/mindmaps/circuit-du-medicament-en-etablissement-de-sante/","tags":["mindmaps"],"noteIcon":"2"}
 ---
 
 

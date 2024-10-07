@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mindmaps/hantz-partie-2/","tags":["cours","mindmaps"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/mindmaps/hantz-partie-2/","tags":["cours","mindmaps"],"noteIcon":"2"}
 ---
 
 # Mindmap

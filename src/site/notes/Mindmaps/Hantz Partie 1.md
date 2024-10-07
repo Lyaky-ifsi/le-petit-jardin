@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mindmaps/hantz-partie-1/","tags":["mindmaps","cours","matière","UE210"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/mindmaps/hantz-partie-1/","tags":["mindmaps","cours","matière","UE210"],"noteIcon":"2"}
 ---
 
 # Mindmap

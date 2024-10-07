@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/les-oligo-and-macro-elements/","tags":["cours","UE21","mindmaps"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/notes/les-oligo-and-macro-elements/","tags":["cours","UE21","mindmaps"],"noteIcon":"2"}
 ---
 
 # Mindmap Light

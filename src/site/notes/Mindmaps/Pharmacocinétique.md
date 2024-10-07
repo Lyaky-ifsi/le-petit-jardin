@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mindmaps/pharmacocinetique/","tags":["mindmaps"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/mindmaps/pharmacocinetique/","tags":["mindmaps"],"noteIcon":"2"}
 ---
 
 # Introduction

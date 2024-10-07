@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/exercices/medicament-p4-p5/","tags":["exercice"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/exercices/medicament-p4-p5/","tags":["exercice"],"noteIcon":"2"}
 ---
 
 # StudySmarter : Flashcards

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mindmaps/bacteriologie-generale-1/","tags":["mindmaps"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/mindmaps/bacteriologie-generale-1/","tags":["mindmaps"],"noteIcon":"2"}
 ---
 
 # Mindmap

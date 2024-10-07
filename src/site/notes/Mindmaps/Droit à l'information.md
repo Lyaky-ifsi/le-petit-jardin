@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mindmaps/droit-a-l-information/","tags":["mindmaps"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/mindmaps/droit-a-l-information/","tags":["mindmaps"],"noteIcon":"2"}
 ---
 
 

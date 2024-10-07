@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mindmaps/droit-respect-de-la-vie-privee/","tags":["mindmaps"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/mindmaps/droit-respect-de-la-vie-privee/","tags":["mindmaps"],"noteIcon":"2"}
 ---
 
 # Mindmaps

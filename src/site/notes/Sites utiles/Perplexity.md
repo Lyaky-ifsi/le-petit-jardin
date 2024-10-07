@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sites-utiles/perplexity/","noteIcon":""}
+{"dg-publish":true,"permalink":"/sites-utiles/perplexity/","noteIcon":"2"}
 ---
 
 # Difficulté utilisation : 1/5

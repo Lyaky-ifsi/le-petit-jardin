@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sites-utiles/study-smarter/","noteIcon":""}
+{"dg-publish":true,"permalink":"/sites-utiles/study-smarter/","noteIcon":"2"}
 ---
 
 # Difficulté utilisation : 1/5

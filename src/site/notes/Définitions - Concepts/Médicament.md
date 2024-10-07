@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/definitions-concepts/medicament/","tags":["#définition","#multi"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/definitions-concepts/medicament/","tags":["#définition","#multi"],"noteIcon":"2"}
 ---
 
 ## Médicament

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/le-modele-biopsychosociale/","tags":["mindmaps","modèle"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/notes/le-modele-biopsychosociale/","tags":["mindmaps","modèle"],"noteIcon":"2"}
 ---
 
 

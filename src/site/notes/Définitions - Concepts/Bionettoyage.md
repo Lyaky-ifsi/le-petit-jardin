@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/definitions-concepts/bionettoyage/","tags":["#definition"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/definitions-concepts/bionettoyage/","tags":["#definition"],"noteIcon":"2"}
 ---
 
 

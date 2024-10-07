@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mindmaps/concepts/","tags":["mindmaps"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/mindmaps/concepts/","tags":["mindmaps"],"noteIcon":"2"}
 ---
 
 # Mindmap

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/definitions-concepts/accident-d-exposition-au-sang-aes/","tags":["définition"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/definitions-concepts/accident-d-exposition-au-sang-aes/","tags":["définition"],"noteIcon":"2"}
 ---
 
 ## Définition

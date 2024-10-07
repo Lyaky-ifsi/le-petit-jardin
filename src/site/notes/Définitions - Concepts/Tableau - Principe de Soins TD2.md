@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/definitions-concepts/tableau-principe-de-soins-td-2/","tags":["définition"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/definitions-concepts/tableau-principe-de-soins-td-2/","tags":["définition"],"noteIcon":"2"}
 ---
 
 

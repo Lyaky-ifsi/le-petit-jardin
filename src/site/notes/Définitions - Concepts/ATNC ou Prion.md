@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/definitions-concepts/atnc-ou-prion/","tags":["définition"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/definitions-concepts/atnc-ou-prion/","tags":["définition"],"noteIcon":"2"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mindmaps/le-raisonnement-clinique/","tags":["mindmaps"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/mindmaps/le-raisonnement-clinique/","tags":["mindmaps"],"noteIcon":"2"}
 ---
 
 

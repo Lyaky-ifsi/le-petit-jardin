@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/definitions-concepts/biocontamination/","tags":["définition"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/definitions-concepts/biocontamination/","tags":["définition"],"noteIcon":"2"}
 ---
 
 ## Définition  

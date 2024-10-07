@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/definitions-concepts/epi-protection-individuelle/","tags":["#definition"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/definitions-concepts/epi-protection-individuelle/","tags":["#definition"],"noteIcon":"2"}
 ---
 
 

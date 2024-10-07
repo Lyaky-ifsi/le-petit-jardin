@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/definitions-concepts/pharmacologie/","tags":["définition"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/definitions-concepts/pharmacologie/","tags":["définition"],"noteIcon":"2"}
 ---
 
 ## Pharmacologie

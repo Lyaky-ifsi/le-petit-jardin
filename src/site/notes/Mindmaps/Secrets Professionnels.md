@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mindmaps/secrets-professionnels/","tags":["mindmaps"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/mindmaps/secrets-professionnels/","tags":["mindmaps"],"noteIcon":"2"}
 ---
 
 

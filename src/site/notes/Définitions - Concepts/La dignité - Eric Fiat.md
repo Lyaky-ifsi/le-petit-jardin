@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/definitions-concepts/la-dignite-eric-fiat/","tags":["#philosophie","#concept","UE13","#GPT"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/definitions-concepts/la-dignite-eric-fiat/","tags":["#philosophie","#concept","UE13","#GPT"],"noteIcon":"2"}
 ---
 
 # Partie 1/6 : Introduction

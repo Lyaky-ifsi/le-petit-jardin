@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/exercices/amm/","tags":["exercice"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/exercices/amm/","tags":["exercice"],"noteIcon":"2"}
 ---
 
 # StudySmarter : Flashcard

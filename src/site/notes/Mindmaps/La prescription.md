@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mindmaps/la-prescription/","tags":["mindmaps"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/mindmaps/la-prescription/","tags":["mindmaps"],"noteIcon":"2"}
 ---
 
 
