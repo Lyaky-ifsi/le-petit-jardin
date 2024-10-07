@@ -142,4 +142,3 @@
 - Psychologie et intelligence artificielle
 - Réalité virtuelle en thérapie et en recherche
 
-Cette structure approfondie offre un panorama détaillé de l'évolution de la psychologie, de ses méthodes et de ses défis actuels, fournissant une base solide pour comprendre cette discipline complexe et en constante évolution.
