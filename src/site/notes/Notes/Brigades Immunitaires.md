@@ -6,7 +6,7 @@
 # Wiki Manga
 ## Personnages
 
-> [!info] Leucocytes (Globules Blancs)
+> [!info] Leucocytes (Globules Blancs) ou neutrophiles
 > ![../Excalidraw/Brigades Immunitaires/leucocyte.png](/img/user/Excalidraw/Brigades%20Immunitaires/leucocyte.png)
 > Leur fonctions principale est d'assurer l'élimination d'agents infectieux (virus, bactéries...) dans l'organisme. Les neutrophiles constituent la moitié de la population totale des globules blancs.
 > 
@@ -14,9 +14,10 @@
 >  - U-1146 est dans la section granulocyte neutrophile 
 >  - Ils sont **circulant**, ils peuvent sortir du système sanguin pour intervenir.
 >  - **Quantité** : entre 3500 à 9500 par $\mu L$ 
+>  - **Capacité** : Phagocytose 
 >
 >   
-> #Leucocyte #granulocyte-neutrophile #neutrophile
+> #Leucocyte #granulocyte-neutrophile #neutrophile #phagocytose 
 
 > [!info] Hématie (Globule Rouge) ou érythrocyte
 > ![../Excalidraw/Brigades Immunitaires/hématie.png](/img/user/Excalidraw/Brigades%20Immunitaires/h%C3%A9matie.png)
@@ -28,6 +29,9 @@
 > **Notes :**
  > - **érythropoïèse** : érythroblaste $\longrightarrow$ réticulocyte $\longrightarrow$ érythrocyte ou hématie
 > - **Quantité** : entre 4.3 millions à 5.7 par $\mu L$  (homme) et entre 3.9  millions à 5.7 par $\mu L$  (femme)
+> - hématite = maladie du sang
+> - **Longévité** : 120 jours - Élimination dans la rate
+>  - La bilirubine foie -> composition de bile -> digestion graisse
 > 
 > #hématie #hémoglobine #érythropoïèse 
 
@@ -46,6 +50,11 @@
 > ![../Excalidraw/Brigades Immunitaires/thrombocyte.png](/img/user/Excalidraw/Brigades%20Immunitaires/thrombocyte.png)
 > Cellules sanguines aidant à contrôler les saignements et permettant la coagulation. Elles sont beaucoup plus petites que les autres cellules. 
 > 
+> **Notes**
+> - **longévité :** 7 à 10 jours
+> - Fibrine 
+> - embole $\ne$ thrombus
+> 
 > #thrombocyte
 
 > [!important] Lymphocytes
@@ -55,6 +64,9 @@
 > [!info] Lymphocytes T Helper
 > ![../Excalidraw/Brigades Immunitaires/Lymphocyte T Helper.png](/img/user/Excalidraw/Brigades%20Immunitaires/Lymphocyte%20T%20Helper.png)
 > Lorsque survient une infection, les lymphocytes T Helper orchestrent la réponse immunitaire en activant d'autres cellules défensives afin qu'elles s'attaquent de manière directe et adaptée aux agents infectieux.
+> 
+> **Rôle :** permet de reconnaître le danger en identifiant l'antigène sur le pathogène et de déclencher la réponse immune appropriée.
+> 
 > #lymphocyte #lymphocyte-t
 > 
 
@@ -62,7 +74,24 @@
 > ![../Excalidraw/Brigades Immunitaires/Lymphocytes T cytotoxiques.png](/img/user/Excalidraw/Brigades%20Immunitaires/Lymphocytes%20T%20cytotoxiques.png)
 > Activées par les lymphocytes T Helper, les cellules tueuses T Killer repèrent les cellules cancéreuses ou porteuses d'antigènes et les détruisent.
 
+> [!info] Cellules mémoires 
+> ![../Excalidraw/Brigades Immunitaires/cellules mémoire.png](/img/user/Excalidraw/Brigades%20Immunitaires/cellules%20m%C3%A9moire.png)
+> Lymphocytes se souvenant des pathogènes déjà rencontrés
+> #cellules-mémoire
 
+> [!info] Cellules B (Plasmocytes)
+> ![../Excalidraw/Brigades Immunitaires/cellules B.png](/img/user/Excalidraw/Brigades%20Immunitaires/cellules%20B.png)
+> Lymphocytes particuliers responsables de la fabrication des anticorps servant à neutraliser les agents pathogènes (bactéries, virus ...)
+> 
+> **Notes :**
+> - **Production** d'immunoglobulines E (IGE) : classe d'anticorps produite par les cellules B pour contrer les allergènes, à la demande des lymphocytes T Helper.
+> 
+> #cellules-b #plasmocyte #immuniglobuline-e
+
+> [!info] Mastocyte
+> ![../Excalidraw/Brigades Immunitaires/mastocyte.png](/img/user/Excalidraw/Brigades%20Immunitaires/mastocyte.png)
+> Cellule produisant des substances comme l'histamine ou les leucotriènes, qu'elle libère en réaction à une quantité anormale d'IGE dans le sang
+> #mastocyte #immuniglobuline-e 
 # Ennemies 
 > [!danger] Streptococcus Pneumoniae (Pneumocoque)
 > ![../Excalidraw/Brigades Immunitaires/pneumocoque.png](/img/user/Excalidraw/Brigades%20Immunitaires/pneumocoque.png)
@@ -73,6 +102,11 @@
 >    *Le pire c'est que c'est un rapide ! 24 heures peuvent lui suffire pour se répandre dans le corps entier ! "*
 > 
 > #pneumocoque #hématie 
+> 
+
+> [!danger] Allergène du Pollen de Cyprès
+> ![../Excalidraw/Brigades Immunitaires/pollen cyprès.png](/img/user/Excalidraw/Brigades%20Immunitaires/pollen%20cypr%C3%A8s.png)
+> Un allergène est une substance provoquant une réaction allergique chez un sujet prédisposé. Le pollen de cyprès en contient plusieurs, notamment le Cry j1 et le Cry j2.
 # Termes Médicaux
 
 > [!note]  Valves veineuses
@@ -124,11 +158,19 @@
 > Mécanisme réflexe destiné à expulser les éléments étrangers (virus, grains de poussières…) provoquant une irritation des muqueuses nasales. Il peut aussi être provoqué par un facteur allergique, le poivre ou même la lumière du soleil.
 > #éternuement
 
+> [!note] Phagocytose 
+> Capacité de certaines cellules (monocytes, macrophages, neutrophiles...) d'ingérer et détruire des bactéries, particules ou micro-organismes étrangers.
+> #phagocytose 
+
+> [!note] Immunoglobulines E 
+> Classe d'anticorps produite par les cellules B pour contrer les allergènes, à la demande des lymphocytes T Helper.
+> #immuniglobuline-e 
 ## Vocabulaire à ajouter
 - [[Notes/Brigades Immunitaires\|Brigades Immunitaires]]: 
     - #Leucocyte
     - #granulocyte-neutrophile
     - #neutrophile
+    - #phagocytose
     - #hématie
     - #hémoglobine
     - #érythropoïèse
@@ -139,6 +181,11 @@
     - #lymphocytes
     - #lymphocyte
     - #lymphocyte-t
+    - #cellules-mémoire
+    - #cellules-b
+    - #plasmocyte
+    - #immuniglobuline-e
+    - #mastocyte
     - #pneumocoque
     - #valve-veineuse
     - #système-lymphatique
