@@ -91,7 +91,7 @@
 > [!info] Mastocyte
 > ![../Excalidraw/Brigades Immunitaires/mastocyte.png](/img/user/Excalidraw/Brigades%20Immunitaires/mastocyte.png)
 > Cellule produisant des substances comme l'histamine ou les leucotriènes, qu'elle libère en réaction à une quantité anormale d'IGE dans le sang
-> #mastocyte #immuniglobuline-e 
+> #mastocyte #immuniglobuline-e #histamine 
 # Ennemies 
 > [!danger] Streptococcus Pneumoniae (Pneumocoque)
 > ![../Excalidraw/Brigades Immunitaires/pneumocoque.png](/img/user/Excalidraw/Brigades%20Immunitaires/pneumocoque.png)
@@ -165,6 +165,14 @@
 > [!note] Immunoglobulines E 
 > Classe d'anticorps produite par les cellules B pour contrer les allergènes, à la demande des lymphocytes T Helper.
 > #immuniglobuline-e 
+
+> [!note] Histamine
+> Molécule de signalisation libérée par les mastocytes en cas d'intrusion d'agents infectieux ou de lésions de l'organisme.
+> 
+> **Fonction** : L'histamine provoque l'augmentation de la perméabilité des vaisseaux sanguins, facilitant la mobilité des globules blancs.
+> 
+> **Réaction** : Un excès d'histamine peut provoquer différents symptômes : rougeurs, démangeaisons, urticaire
+> #histamine
 ## Vocabulaire à ajouter
 - [[Notes/Brigades Immunitaires\|Brigades Immunitaires]]: 
     - #Leucocyte
@@ -186,6 +194,7 @@
     - #plasmocyte
     - #immuniglobuline-e
     - #mastocyte
+    - #histamine
     - #pneumocoque
     - #valve-veineuse
     - #système-lymphatique
