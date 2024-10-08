@@ -17,4 +17,8 @@ body {
           max-height: 100%;
           aspect-ratio: attr(width) / attr(height);
     }
+    svg {
+      transform: scale(0.8); /* Réduit à 50% de sa taille originale */
+      transform-origin: top left; /* Point d'origine de la transformation */
+    }
 }
