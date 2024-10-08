@@ -13,7 +13,7 @@
 > **Notes** :
 >  - U-1146 est dans la section granulocyte neutrophile 
 >  - Ils sont **circulant**, ils peuvent sortir du système sanguin pour intervenir.
->  - **Quantité** : entre 3500 à 9500 par $\mu L$ 
+>  - **Quantité** : entre 3500 à 9500 par \mu L 
 >  - **Capacité** : Phagocytose 
 >
 >   
@@ -27,8 +27,8 @@
 > **Rôle :** Elles circulent en permanence dans l'organisme pour acheminer l'oxygène vers les tissus, et le dioxyde de carbone vers les poumons.
 > 
 > **Notes :**
- > - **érythropoïèse** : érythroblaste $\longrightarrow$ réticulocyte $\longrightarrow$ érythrocyte ou hématie
-> - **Quantité** : entre 4.3 millions à 5.7 par $\mu L$  (homme) et entre 3.9  millions à 5.7 par $\mu L$  (femme)
+ > - **érythropoïèse** : érythroblaste \longrightarrow réticulocyte \longrightarrow érythrocyte ou hématie
+> - **Quantité** : entre 4.3 millions à 5.7 par \mu L  (homme) et entre 3.9  millions à 5.7 par \mu L  (femme)
 > - hématite = maladie du sang
 > - **Longévité** : 120 jours - Élimination dans la rate
 >  - La bilirubine foie -> composition de bile -> digestion graisse
@@ -53,7 +53,7 @@
 > **Notes**
 > - **longévité :** 7 à 10 jours
 > - Fibrine 
-> - embole $\ne$ thrombus
+> - embole \ne thrombus
 > 
 > #thrombocyte
 
@@ -128,7 +128,7 @@
 > Sorte de radar permettant de détecter les agents infectieux
 > #récepteur
 
-> [!note] Caillot $\ne$ thrombus
+> [!note] Caillot \ne thrombus
 > Petit agglomérat visqueux servant à colmater une plaie et à stopper l'hémorragie.
 > #caillot 
 
