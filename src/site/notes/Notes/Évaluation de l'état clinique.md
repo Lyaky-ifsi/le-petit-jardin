@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/notes/evaluation-de-l-etat-clinique/","tags":["cours"],"noteIcon":"2"}
+{"dg-publish":true,"permalink":"/notes/evaluation-de-l-etat-clinique/","tags":["cours","protocole"],"noteIcon":"2"}
 ---
 
 
 
 
-
+# Mindmaps
+![../Fichiers/Mindmaps/Évaluation de l'état clinique.png](/img/user/Fichiers/Mindmaps/%C3%89valuation%20de%20l'%C3%A9tat%20clinique.png)
+> [!info] WEB : [cliquez ici](https://mindmapai.app/mind-map/évaluation-de-létat-clinique-9c230034)
 # Les paramètres et les bases
 ## Paramètres anthropométriques
 
