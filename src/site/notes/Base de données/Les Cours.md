@@ -5,6 +5,7 @@
 # Ordre par DATE
 | File                                                                                   | domaine | date               |
 | -------------------------------------------------------------------------------------- | ------- | ------------------ |
+| [[Notes/Évaluation de l'état clinique\|Évaluation de l'état clinique]]              | Notes   | October 20, 2024   |
 | [[Mindmaps/Le Sang\|Le Sang]]                                                       | UE22    | October 08, 2024   |
 | [[Mindmaps/Psychologie - Vidéo Youtube\|Psychologie - Vidéo Youtube]]               | UE11    | October 07, 2024   |
 | [[Mindmaps/La révolution Cognitif - Youtube\|La révolution Cognitif - Youtube]]     | UE11    | October 07, 2024   |
