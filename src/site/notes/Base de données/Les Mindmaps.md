@@ -5,6 +5,9 @@
 # Ordre par DATE
 | File                                                                                                               | domaine     | date               |
 | ------------------------------------------------------------------------------------------------------------------ | ----------- | ------------------ |
+| [[Mindmaps/Les éléments, atomes constitutifs du vivant\|Les éléments, atomes constitutifs du vivant]]           | UE21        | October 27, 2024   |
+| [[Mindmaps/Les éléments majeurs du vivant\|Les éléments majeurs du vivant]]                                     | UE21        | October 27, 2024   |
+| [[Mindmaps/Méiose\|Méiose]]                                                                                     | UE22        | October 26, 2024   |
 | [[Mindmaps/Mort cellulaire\|Mort cellulaire]]                                                                   | UE21        | October 10, 2024   |
 | [[Mindmaps/Membrane Plasmique\|Membrane Plasmique]]                                                             | UE21        | October 10, 2024   |
 | [[Mindmaps/La méiose\|La méiose]]                                                                               | UE21        | October 10, 2024   |
@@ -41,7 +44,7 @@
 | [[Mindmaps/Droit Fondamentaux P1\|Droit Fondamentaux P1]]                                                       | UE13        | September 08, 2024 |
 | [[Mindmaps/Droit Fondamentaux P2\|Droit Fondamentaux P2]]                                                       | UE210       | August 08, 2024    |
 | [[Mindmaps/Bactériologie Générale 2\|Bactériologie Générale 2]]                                                 | UE210       | September 18, 2023 |
-| [[Base de données/All\|All]]                                                                                    | \-          | \-                 |
+| [[Exercices/All\|All]]                                                                                          | \-          | \-                 |
 
 { .block-language-dataview}
 
