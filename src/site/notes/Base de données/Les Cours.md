@@ -13,6 +13,6 @@
 | [[Définitions - Concepts/Les 14 Besoins Fondamentaux\|Les 14 Besoins Fondamentaux]] | UE31    | September 20, 2024 |
 | [[Mindmaps/Hantz Partie 2\|Hantz Partie 2]]                                         | UE210   | September 09, 2024 |
 | [[Mindmaps/Hantz Partie 1\|Hantz Partie 1]]                                         | UE210   | September 09, 2024 |
-| [[Exercices/All\|All]]                                                              | \-      | \-                 |
+| [[Base de données/All\|All]]                                                        | \-      | \-                 |
 
 { .block-language-dataview}
