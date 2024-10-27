@@ -4,8 +4,7 @@
 
 
 
-
-# Mindmaps
+# Mindmap
 ![../Fichiers/Mindmaps/Évaluation de l'état clinique.png](/img/user/Fichiers/Mindmaps/%C3%89valuation%20de%20l'%C3%A9tat%20clinique.png)
 > [!info] WEB : [cliquez ici](https://mindmapai.app/mind-map/évaluation-de-létat-clinique-9c230034)
 # Les paramètres et les bases
@@ -13,7 +12,8 @@
 
 ### Mesures de base
 - Poids : mesuré avec une balance
-- Taille : mesurée avec une toise
+- Taille 
+- 
 - Calcul de l'Indice de Masse Corporelle (IMC) : 
   $$IMC = \frac{poids (kg)}{taille^2 (m)}$$
 
