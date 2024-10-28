@@ -3,6 +3,11 @@
 ---
 
 # Mindmaps
+#### Carte 1
+![../Fichiers/Mindmaps/Les molécules inorganiques du vivant.png](/img/user/Fichiers/Mindmaps/Les%20mol%C3%A9cules%20inorganiques%20du%20vivant.png)
+> [!info] Site Web : [Cliquez ici](https://mindmapai.app/mind-map/les-molécules-inorganiques-du-vivant-86b132ba)
+#### Carte 2
+
 ![../Excalidraw/UE21 - Molécules inorganiques du Vivant - Eau.png](/img/user/Excalidraw/UE21%20-%20Mol%C3%A9cules%20inorganiques%20du%20Vivant%20-%20Eau.png)
 # Schémas
 ## Équilibre hydrique
